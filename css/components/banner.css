@@ -1,0 +1,15 @@
+.banner{
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
+
+.banner h1{
+  color: white;
+}
+.banner p{
+  color: lightgray;
+}
